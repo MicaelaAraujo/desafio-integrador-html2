@@ -1,0 +1,20 @@
+h1 {
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 50pt;
+    color: #0a2ff1;
+  }
+  .col-lg-6 p.lead {
+    font-family: Poppins regular;
+    font-weight: bold;
+    font-size: 55pt;
+    color: #0a2ff1;
+  }
+  .btn-primary {
+    font-family: Poppins, sans-serif;
+    font-weight: regular;
+    font-size: 22pt;
+    background-color: #8a9af1;
+  }
+  
+    
